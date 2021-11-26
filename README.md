@@ -5,7 +5,16 @@ I am a react developer and moving forward to become a full stack developer.
 🖊️ Love to write code
 🎤 Like to share my knowledge
 
-
+<h3>👨‍💻 Skills & Experiance:</h3>
+<h6>🖊️Expertise :</h6>
+<p>✔HTML, css, bootstrap, javaScript, ES6, REST API, React js,React-bootstrap,nodeJS, expressJS,Mongod,Firebase Authenticationb</p>
+<h6>🖊️Comfortable :</h6>
+<p>✔ JavaScript, Firebase, NodeJS, express js, Mongodb, Material ui,Tailwind, graph</p>
+<h6>🖊️Familiar :</h6>
+<p>✔ Data Structure and algorithm, Product Development, Full life cycle project with Wordpress, Redux, SCSS,GraphQl</p>
+     <h6>🖊️ Tools :</h6>
+<p>✔ Git, Firebase, Netlify, Heroku, VScode , Chrome Dev tools</p>    
+     
 <h3 align="left">Connect with me:</h3>
 <p align="inline">
  <a href="https://linkedin.com/in/mahmud918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmud918" height="30" width="40" /></a>
