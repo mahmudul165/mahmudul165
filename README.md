@@ -7,10 +7,9 @@ I am a react developer and moving forward to become a full stack developer.
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="inline">
  <a href="https://linkedin.com/in/mahmud918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmud918" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10577083/mahmud-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10577083/mahmud-hasan" height="30" width="40" /></a>
-
 <a href="https://fb.com/mahmud.918/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmud.918/" height="30" width="40" /></a>
  <a href="https://instagram.com/mahmud.918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmud.918" height="30" width="40" /></a>
 </p>
