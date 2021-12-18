@@ -1,7 +1,7 @@
 <!--  ![👑Web Developer.](https://i.ibb.co/FXKVR8z/mahmud-image-formal.jpg)  -->
 <!--  <img align="center" src="https://i.ibb.co/FXKVR8z/mahmud-image-formal.jpg"> -->
   <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=It's++Mahmudul+Hasan+!;I'm+full+Stack+Developer.;I'm+JavaScript+Lover.;And+also+proud+as+a+GitHub+user.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F769A8&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmudul+Hasan!;I'm+full+Stack+Developer+and+JavaScript+Lover.;+Love+to+learn+Technology+and+write+code.;And+also+proud+as+a+GitHub+user.)](https://git.io/typing-svg)
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 I am a react developer and moving forward to become a full stack developer.
 🖊️ Love to write code
